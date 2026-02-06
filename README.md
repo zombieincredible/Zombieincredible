@@ -1,1 +1,1 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zombieincredible&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zombieincredible&theme=github_dark)
